@@ -16,5 +16,7 @@ public class gittest {
         System.out.println("hello3");
         System.out.println("hello4");
         System.out.println("mastertest");
+        System.out.println("hello4");\
+        System.out.println("hotfixtest");
     }
 }
